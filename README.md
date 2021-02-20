@@ -8,7 +8,7 @@ My name is Vigintillion! I'm 15 years old and I mostly program websites and disc
 - 🤔 I’m looking for help with **Better database management**
 - 💬 Ask me about **almost everything**
 - 📫 How to reach me:
-  - Discord tag: **ChickenDev#6181**
+  - Discord tag: **Vigintillion#6181**
 - ⚡ Fun fact: **I started coding when I was 10 years old!**
 
 NPM Packages
