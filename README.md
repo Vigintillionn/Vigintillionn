@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is ChickenDev! I'm 14 years old and I mostly program websites and discord bots!
+My name is Vigintillion! I'm 15 years old and I mostly program websites and discord bots!
 
 - 🔭 I’m currently working on **Topaz RPG, a thrilling RPG simulation discord game**
 - 🌱 I’m currently learning **Java and Python**
