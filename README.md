@@ -53,6 +53,7 @@ trailing edge (e.g. C++).
 
 ### Systems
 
+![](https://img.shields.io/badge/Windows-OS-cornflowerblue?style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/iOS-OS-cornflowerblue?style=flat&logo=ios&logoColor=white)
 ![](https://img.shields.io/badge/Linux-OS-cornflowerblue?style=flat&logo=linux&logoColor=white)
 
