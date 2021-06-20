@@ -9,7 +9,7 @@ languages (e.g. JavaScript) and occasionally contribute to open-source software.
 
 If you'd like to contact me, feel free to do so via Discord: **Vigintillion#6181**.
 
-***"Listen to your desires."***
+***"Every moment is a fresh beginning."***
 
 ## Technologies
 <!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
