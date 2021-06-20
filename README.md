@@ -34,7 +34,7 @@ trailing edge (e.g. C++).
 ### Frameworks
 
 ![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Electron-Framework-orange?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Electron-Framework-orange?style=flat&logo=electron&logoColor=white)
 ![](https://img.shields.io/badge/React-Framework-orange?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Apollo-Framework-orange?style=flat&logo=apollo-graphql&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-Framework-orange?style=flat&logo=flutter&logoColor=white)
