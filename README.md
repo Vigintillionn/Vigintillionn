@@ -61,3 +61,10 @@ trailing edge (e.g. C++).
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-mediumpurple?style=flat&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Atom-Code%20Editor-mediumpurple?style=flat&logo=atom&logoColor=white)
 ![](https://img.shields.io/badge/InteliJ-IDE-mediumpurple?style=flat&logo=intelij&logoColor=white)
+
+## My Work
+
+### NPM Packages
+
+- [Readable Numbers](https://www.npmjs.com/package/readable-numbers)
+
