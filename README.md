@@ -18,12 +18,12 @@ trailing edge (e.g. C++).
 
 ### Languages
 
-![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-Language-red?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/SQL-Language-red?style=flat&logo=sql&logoColor=white)
+![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-Language-red?style=flat&logo=html&logoColor=white)
 ![](https://img.shields.io/badge/CSS-Language-red?style=flat&logo=css&logoColor=white)
-![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/C++-Language-red?style=flat&logo=c++&logoColor=white)
 
@@ -34,8 +34,8 @@ trailing edge (e.g. C++).
 ### Frameworks
 
 ![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Electron-Framework-orange?style=flat&logo=electron&logoColor=white)
 ![](https://img.shields.io/badge/React-Framework-orange?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Electron-Framework-orange?style=flat&logo=electron&logoColor=white)
 ![](https://img.shields.io/badge/Apollo-Framework-orange?style=flat&logo=apollo-graphql&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-Framework-orange?style=flat&logo=flutter&logoColor=white)
 
