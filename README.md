@@ -1,6 +1,6 @@
 # Heya! 👋
 
-I'm Yarne, a 15-year-old software developer. I go under the pseudonyms Vig and Vigintillion online. I'm a high school
+I'm Yarne, a 16-year-old software developer. I go under the pseudonyms Vig and Vigintillion online. I'm a high school
 student pursuing a software engineering career.
 
 I develop desktop applications, front & backend systems, command-line applications, bots, and more. I've worked on
