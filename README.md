@@ -9,7 +9,7 @@ languages (e.g. JavaScript) and occasionally contribute to open-source software.
 
 If you'd like to contact me, feel free to do so via Discord: **Vigintillion#6181**.
 
-***"Every moment is a fresh beginning."***
+***"One day we can look back at where we started and be amazed by how far we've come."***
 
 ## Technologies
 <!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
@@ -35,6 +35,7 @@ trailing edge (e.g. C++).
 
 ![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/React-Framework-orange?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/TailwindCSS-Framework-orange?style=flat&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/Electron-Framework-orange?style=flat&logo=electron&logoColor=white)
 ![](https://img.shields.io/badge/Apollo-Framework-orange?style=flat&logo=apollo-graphql&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-Framework-orange?style=flat&logo=flutter&logoColor=white)
