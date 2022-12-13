@@ -7,6 +7,8 @@ I develop desktop applications, front & backend systems, command-line applicatio
 numerous projects, more of which are private, archived, or deleted. I predominantly work with lightweight object oriented programming
 languages (e.g. JavaScript) and occasionally contribute to open-source software.
 
+I also love designing and developing eye-pleasing and unique websites!
+
 If you'd like to contact me, feel free to do so via Discord: **Vigintillion#6181**.
 
 ***"One day we can look back at where we started and be amazed by how far we've come."***
