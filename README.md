@@ -37,8 +37,6 @@ trailing edge (e.g. C++).
 ![](https://img.shields.io/badge/React-Framework-orange?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-Framework-orange?style=flat&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/Electron-Framework-orange?style=flat&logo=electron&logoColor=white)
-![](https://img.shields.io/badge/Apollo-Framework-orange?style=flat&logo=apollo-graphql&logoColor=white)
-![](https://img.shields.io/badge/Flutter-Framework-orange?style=flat&logo=flutter&logoColor=white)
 
 ### Databases
 
@@ -63,6 +61,7 @@ trailing edge (e.g. C++).
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-mediumpurple?style=flat&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Atom-Code%20Editor-mediumpurple?style=flat&logo=atom&logoColor=white)
 ![](https://img.shields.io/badge/InteliJ-IDE-mediumpurple?style=flat&logo=intelij&logoColor=white)
+![](https://img.shields.io/badge/Figma-mediumpurple?style=flat&logo=figma&logoColor=white)
 
 ## My Work
 
