@@ -22,10 +22,10 @@ trailing edge (e.g. C++).
 ![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/SQL-Language-red?style=flat&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/HTML-Language-red?style=flat&logo=html&logoColor=white)
-![](https://img.shields.io/badge/CSS-Language-red?style=flat&logo=css&logoColor=white)
+![](https://img.shields.io/badge/HTML-Language-red?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-Language-red?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
-![](https://img.shields.io/badge/C++-Language-red?style=flat&logo=c++&logoColor=white)
+![](https://img.shields.io/badge/C++-Language-red?style=flat&logo=cplusplus&logoColor=white)
 
 #### Languages | Others
 
