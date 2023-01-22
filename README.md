@@ -26,6 +26,7 @@ trailing edge (e.g. C++).
 ![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-Language-red?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-Language-red?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Golang-Language-red?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/C++-Language-red?style=flat&logo=cplusplus&logoColor=white)
 
