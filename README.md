@@ -68,6 +68,8 @@ trailing edge (e.g. C++).
 
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-mediumpurple?style=flat&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Figma-Design%20Tool-mediumpurple?style=flat&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/ChatGPT-AI-mediumpurple?style=flat&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/DallE-AI-mediumpurple?style=flat&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/Atom-Code%20Editor-mediumpurple?style=flat&logo=atom&logoColor=white)
 ![](https://img.shields.io/badge/InteliJ-IDE-mediumpurple?style=flat&logo=intelij&logoColor=white)
 
