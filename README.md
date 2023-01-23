@@ -78,10 +78,13 @@ trailing edge (e.g. C++).
 ### NPM Packages
 
 - [Readable Numbers](https://www.npmjs.com/package/readable-numbers)
+  An npm package to make big numbers (eg 10000000) readable (eg 10M).
 
 ### Wesbites and web apps
 
 - [EcoBol](https://www.ecobol.be)
+  A website for my school company, ecobol, where we sell bottled ecosystems. Written in typescript and react with tailwindcss.
 - [Riplay](https://riplay.netlify.app/)
+  A website for my friend's school company, riplay, who sell second hand toys. Written in typescript and react with tailwindcss.
 - [RSA Algorithm](https://wiskunde-oc.netlify.app/)
-
+  A web app for my research competence for mathematics class about the usage of prime numbers in the real word. Written in typescript.
