@@ -82,6 +82,6 @@ trailing edge (e.g. C++).
 ### Wesbites and web apps
 
 - [EcoBol](https://www.ecobol.be)
-- [Riplay](https://www.riplay.netlify.app)
-- [RSA Algorithm](https://www.wiskunde-oc.netlify.app)
+- [Riplay](https://riplay.netlify.app/)
+- [RSA Algorithm](https://www.wiskunde-oc.netlify.app/)
 
