@@ -83,5 +83,5 @@ trailing edge (e.g. C++).
 
 - [EcoBol](https://www.ecobol.be)
 - [Riplay](https://riplay.netlify.app/)
-- [RSA Algorithm](https://www.wiskunde-oc.netlify.app/)
+- [RSA Algorithm](https://wiskunde-oc.netlify.app/)
 
