@@ -1,23 +1,26 @@
 # Heya! 👋
 
-I'm Yarne, a 17-year-old software developer. I go under the pseudonyms Vig and Vigintillion online. I'm a high school
-student pursuing a software engineering career.
+I'm Yarne, a 17 year old highly motivated and skilled software developer. I am currently pursuing a career in software engineering
+as a high school student. I go by the pseudonyms Vig and Vigintillion online, where I have been actively contributing to the developer
+community.
 
-I develop desktop applications, front & backend systems, command-line applications, bots, and more. I've worked on
-numerous projects, more of which are private, archived, or deleted. I predominantly work with lightweight object oriented programming
-languages (e.g. JavaScript) and occasionally contribute to open-source software.
+I am an experienced software developer with a diverse skillset, including expertise in desktop application development, front-end and
+back-end systems, command-line applications and game development. I have a proven track record, having worked on a variety of projects,
+many of which are confidential or have been archived or deleted. I specialize in utilizing lightweight object-oriented programming
+languages, such as JavaScript, and am also a dedicated open-source contributor.
 
-I am currently learning Go, C++, cyber security and networking.
-I also love designing and developing eye-pleasing and unique websites!
+I am constantly expanding my knowledge and skillset, currently focusing on Go, C++, cyber security, and networking. 
+In addition to my technical abilities, I have a passion for design and user experience, and enjoy creating visually 
+appealing and unique websites.
 
-If you'd like to contact me, feel free to do so via Discord: **Vigintillion#6181** or dm me on instagram **@uibyvig**.
+If you have any inquiries or would like to contact me, please do not hesitate to reach out through 
+Discord at **Vigintillion#6181** or direct message me on Instagram at **@uibyvig**.
 
 ***"One day we can look back at where we started and be amazed by how far we've come."***
 
 ## Technologies
 <!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
-The labels represent notable technologies I'm experienced with, sorted by experience from the leading (e.g. JavaScript) to
-trailing edge (e.g. C++).
+The labels below indicate my proficiency and expertise in various technologies. They are organized based on my level of experience and demonstrate my ability to develop complete and production-ready applications using them. Technologies listed on the top (e.g. TypeScript) are those in which I have the most experience, while those listed towards the bottom (e.g. C++) are those that I am less experienced with
 
 ### Languages
 
