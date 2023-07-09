@@ -14,9 +14,9 @@ In addition to my technical abilities, I have a passion for design and user expe
 appealing and unique websites.
 
 If you have any inquiries or would like to contact me, please do not hesitate to reach out through 
-Discord at **Vigintillion#6181** or direct message me on Instagram at **@uibyvig**.
+Discord at **.vigintillion** or direct message me on Instagram at **@uibyvig**.
 
-***"One day we can look back at where we started and be amazed by how far we've come."***
+***"One day we can look back at where we started and be amazed by how far we've come."*** - Technoblade
 
 ## Technologies
 <!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
@@ -91,5 +91,5 @@ The labels below indicate my proficiency and expertise in various technologies. 
   A website for my friend's school company, riplay, who sell second hand toys. Written in typescript and react with tailwindcss.
 - [RSA Algorithm](https://wiskunde-oc.netlify.app/)
   A web app for my research competence for mathematics class about the usage of prime numbers in the real word. Written in typescript.
-- [RMA Assist](https://wiskunde-oc.netlify.app/)
+- [RMA Assist](https://rma-assist.net/)
   A website for a friend's social media marketing agency. Written in react with tailwindcss and typescript.
