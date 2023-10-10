@@ -1,7 +1,7 @@
 # Heya! 👋
 
-I'm Yarne, a 17 year old highly motivated and skilled software developer. I am currently pursuing a career in software engineering
-as a high school student. I go by the pseudonyms Vig and Vigintillion online, where I have been actively contributing to the developer
+I'm Yarne, a 17 year old highly motivated and skilled software developer. I am currently pursuing a career in computer science
+as a first year bachelor student. I go by the pseudonyms Vig and Vigintillion online, where I have been actively contributing to the developer
 community.
 
 I am an experienced software developer with a diverse skillset, including expertise in desktop application development, front-end and
