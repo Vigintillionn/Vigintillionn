@@ -95,3 +95,5 @@ The labels below indicate my proficiency and expertise in various technologies. 
   A web app for my research competence for mathematics class about the usage of prime numbers in the real word. Written in typescript.
 - [RMA Assist](https://rma-assist.net/)
   A website for a friend's social media marketing agency. Written in react with tailwindcss and typescript.
+- [Topaz RPG](https://topazrpg.xyz)
+  A website for my RPG discord bot. Written in react with tailwindcss and typescript.
