@@ -30,10 +30,11 @@ The labels below indicate my proficiency and expertise in various technologies. 
 ![](https://img.shields.io/badge/CSS-Language-red?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Golang-Language-red?style=flat&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Rust-Language-red?style=flat&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/C++-Language-red?style=flat&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/C-Language-red?style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Rust-Language-red?style=flat&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/PHP-Language-red?style=flat&logo=php&logoColor=white)
 
 #### Languages | Others
 
