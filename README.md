@@ -92,13 +92,5 @@ The labels below indicate my proficiency and expertise in various technologies. 
 
 ### Wesbites and web apps
 
-- [EcoBol](https://www.ecobol.be)
-  A website for my school company, ecobol, where we sell bottled ecosystems. Written in typescript and react with tailwindcss.
-- [Riplay](https://riplay.netlify.app/)
-  A website for my friend's school company, riplay, who sell second hand toys. Written in typescript and react with tailwindcss.
-- [RSA Algorithm](https://wiskunde-oc.netlify.app/)
-  A web app for my research competence for mathematics class about the usage of prime numbers in the real word. Written in typescript.
-- [RMA Assist](https://rma-assist.net/)
-  A website for a friend's social media marketing agency. Written in react with tailwindcss and typescript.
 - [Topaz RPG](https://topazrpg.xyz)
   A website for my RPG discord bot. Written in react with tailwindcss and typescript.
