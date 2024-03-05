@@ -38,21 +38,24 @@ The labels below indicate my proficiency and expertise in various technologies. 
 
 #### Languages | Others
 
-![](https://img.shields.io/badge/GraphQL-Language-red?style=flat&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/SQL-Language-red?style=flat&logo=sql&logoColor=white)
+![](https://img.shields.io/badge/GraphQL-Language-red?style=flat&logo=graphql&logoColor=white)
 
 ### Frameworks
 
 ![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/React-Framework-orange?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Svelte-Framework-orange?style=flat&logo=svelte&logoColor=white)
 ![](https://img.shields.io/badge/Next.JS-Framework-orange?style=flat&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-Framework-orange?style=flat&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/Tauri-Framework-orange?style=flat&logo=tauri&logoColor=white)
 ![](https://img.shields.io/badge/Electron-Framework-orange?style=flat&logo=electron&logoColor=white)
 
 ### Databases
 
-![](https://img.shields.io/badge/SQLite-SQL-yellow?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-SQL-yellow?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MariaDB-SQL-yellow?style=flat&logo=mariadb&logoColor=white)
+![](https://img.shields.io/badge/SQLite-SQL-yellow?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-NoSQL-yellow?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-SQL-yellow?style=flat&logo=postgresql&logoColor=white)
 
@@ -60,23 +63,24 @@ The labels below indicate my proficiency and expertise in various technologies. 
 ### Software
 
 ![](https://img.shields.io/badge/Git-Software-seagreen?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Docker-Software-seagreen?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Vite-Software-seagreen?style=flat&logo=vite&logoColor=white)
 ![](https://img.shields.io/badge/Create%20React%20App-Software-seagreen?style=flat&logo=createreactapp&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-Software-seagreen?style=flat&logo=netlify&logoColor=white)
 
 ### Systems
 
+![](https://img.shields.io/badge/Linux-OS-cornflowerblue?style=flat&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Windows-OS-cornflowerblue?style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/iOS-OS-cornflowerblue?style=flat&logo=ios&logoColor=white)
-![](https://img.shields.io/badge/Linux-OS-cornflowerblue?style=flat&logo=linux&logoColor=white)
 
 ### Tools
 
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-mediumpurple?style=flat&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/NeoVim-Editor-mediumpurple?style=flat&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/Figma-Design%20Tool-mediumpurple?style=flat&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/ChatGPT-AI-mediumpurple?style=flat&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/DallE-AI-mediumpurple?style=flat&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/Atom-Code%20Editor-mediumpurple?style=flat&logo=atom&logoColor=white)
 ![](https://img.shields.io/badge/InteliJ-IDE-mediumpurple?style=flat&logo=intelij&logoColor=white)
 
 ## My Work
