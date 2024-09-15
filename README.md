@@ -59,7 +59,7 @@ The labels below indicate my proficiency and expertise in various technologies. 
 ![](https://img.shields.io/badge/SQLite-SQL-yellow?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-NoSQL-yellow?style=flat&logo=mongodb&logoColor=white)
 
-### Databases | Others
+#### Databases | Others
 
 ![](https://img.shields.io/badge/TypeORM-ORM-yellow?style=flat&logo=typeorm&logoColor=white)
 ![](https://img.shields.io/badge/Prisma-ORM-yellow?style=flat&logo=prisma&logoColor=white)
