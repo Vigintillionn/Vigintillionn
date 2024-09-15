@@ -26,11 +26,11 @@ The labels below indicate my proficiency and expertise in various technologies. 
 
 ![](https://img.shields.io/badge/TypeScript-Language-red?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-Language-red?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-Language-red?style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Golang-Language-red?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Rust-Language-red?style=flat&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Golang-Language-red?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/C++-Language-red?style=flat&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/C-Language-red?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
@@ -45,20 +45,25 @@ The labels below indicate my proficiency and expertise in various technologies. 
 
 ![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/React-Framework-orange?style=flat&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Svelte-Framework-orange?style=flat&logo=svelte&logoColor=white)
 ![](https://img.shields.io/badge/Next.JS-Framework-orange?style=flat&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Svelte-Framework-orange?style=flat&logo=svelte&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-Framework-orange?style=flat&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/Tauri-Framework-orange?style=flat&logo=tauri&logoColor=white)
 ![](https://img.shields.io/badge/Electron-Framework-orange?style=flat&logo=electron&logoColor=white)
 
 ### Databases
 
+![](https://img.shields.io/badge/PostgreSQL-SQL-yellow?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-SQL-yellow?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MariaDB-SQL-yellow?style=flat&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-SQL-yellow?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-NoSQL-yellow?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-SQL-yellow?style=flat&logo=postgresql&logoColor=white)
 
+### Databases | Others
+
+![](https://img.shields.io/badge/TypeORM-ORM-yellow?style=flat&logo=typeorm&logoColor=white)
+![](https://img.shields.io/badge/Prisma-ORM-yellow?style=flat&logo=prisma&logoColor=white)
+![](https://img.shields.io/badge/MikrORM-ORM-yellow?style=flat&logo=mikrorm&logoColor=white)
 
 ### Software
 
