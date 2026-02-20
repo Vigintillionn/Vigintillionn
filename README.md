@@ -1,101 +1,62 @@
-# Heya! 👋
+# Heya! 👋 I'm Yarne
 
-I'm Yarne, a 19 year old highly motivated and skilled software developer. I am currently pursuing a career in computer science
-as a first year bachelor student. I go by the pseudonyms Vig and Vigintillion online, where I have been actively contributing to the developer
-community.
+I'm a Computer Science student and open-source developer. I specialize in transforming complex technical challenges into efficient, scalable software, with a strong passion for systems programming and functional paradigms. 
 
-I am an experienced software developer with a diverse skillset, including expertise in desktop application development, front-end and
-back-end systems, command-line applications and game development. I have a proven track record, having worked on a variety of projects,
-many of which are confidential or have been archived or deleted. I specialize in utilizing lightweight object-oriented programming
-languages, such as JavaScript, and am also a dedicated open-source contributor.
+Currently, I'm focusing heavily on **Rust** and **Haskell**, alongside growing my recent open-source projects.
 
-I am constantly expanding my knowledge and skillset, currently focusing on Go, C++, cyber security, and networking. 
-In addition to my technical abilities, I have a passion for design and user experience, and enjoy creating visually 
-appealing and unique websites.
-
-If you have any inquiries or would like to contact me, please do not hesitate to reach out through 
-Discord at **.vigintillion** or direct message me on Instagram at **@uibyvig**.
+* 🔭 **Currently working on:** [niri-sidebar](https://github.com/Vigintillionn/niri-sidebar)
+* 🌱 **Currently exploring:** Compilers, cybersecurity, and low-level systems architecture.
+* 📫 **Reach me:** Discord (`.vigintillion`) or Instagram (`@uibyvig`).
 
 ***"One day we can look back at where we started and be amazed by how far we've come."*** - Technoblade
 
-## Technologies
-<!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
-The labels below indicate my proficiency and expertise in various technologies. They are organized based on my level of experience and demonstrate my ability to develop complete and production-ready applications using them. Technologies listed on the top (e.g. TypeScript) are those in which I have the most experience, while those listed towards the bottom (e.g. C++) are those that I am less experienced with
+---
+
+## 🛠️ Technologies
+I have experience across the full stack, but here are the tools and languages I reach for most frequently and have used to build production-ready applications.
 
 ### Languages
 
-![](https://img.shields.io/badge/TypeScript-Language-red?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/HTML-Language-red?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-Language-red?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Rust-Language-red?style=flat&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Haskell-Language-red?style=flat&logo=haskell&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-Language-red?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Golang-Language-red?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/C++-Language-red?style=flat&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/C-Language-red?style=flat&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/PHP-Language-red?style=flat&logo=php&logoColor=white)
 
-#### Languages | Others
+### Frameworks & Ecosystems
 
-![](https://img.shields.io/badge/SQL-Language-red?style=flat&logo=sql&logoColor=white)
+![](https://img.shields.io/badge/Tauri-Framework-orange?style=flat&logo=tauri&logoColor=white)
+![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/React_&_Next.js-Framework-orange?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Docker-Software-seagreen?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-SQL-yellow?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/GraphQL-Language-red?style=flat&logo=graphql&logoColor=white)
 
-### Frameworks
+---
 
-![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/React-Framework-orange?style=flat&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Next.JS-Framework-orange?style=flat&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Svelte-Framework-orange?style=flat&logo=svelte&logoColor=white)
-![](https://img.shields.io/badge/TailwindCSS-Framework-orange?style=flat&logo=tailwindcss&logoColor=white)
-![](https://img.shields.io/badge/Tauri-Framework-orange?style=flat&logo=tauri&logoColor=white)
-![](https://img.shields.io/badge/Electron-Framework-orange?style=flat&logo=electron&logoColor=white)
+## 🚀 Featured Work
 
-### Databases
+* **[niri-sidebar](https://github.com/Vigintillionn/niri-sidebar)**
+  *A CLI utility written in Rust to seamlessly manage and dock floating windows into a sidebar for the Niri Wayland compositor.*
+  > ⭐ Gained 81 GitHub stars in its first week.
 
-![](https://img.shields.io/badge/PostgreSQL-SQL-yellow?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MySQL-SQL-yellow?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MariaDB-SQL-yellow?style=flat&logo=mariadb&logoColor=white)
-![](https://img.shields.io/badge/SQLite-SQL-yellow?style=flat&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-NoSQL-yellow?style=flat&logo=mongodb&logoColor=white)
+* **[Readable Numbers](https://www.npmjs.com/package/readable-numbers)**
+  *An npm package to format large numbers (e.g., 10000000) into human-readable strings (e.g., 10M).*
 
-#### Databases | Others
+* **[Topaz RPG](https://topazrpg.xyz)**
+  *A web platform for a custom RPG Discord bot, built with React, TailwindCSS, and TypeScript.*
 
-![](https://img.shields.io/badge/TypeORM-ORM-yellow?style=flat&logo=typeorm&logoColor=white)
-![](https://img.shields.io/badge/Prisma-ORM-yellow?style=flat&logo=prisma&logoColor=white)
-![](https://img.shields.io/badge/MikrORM-ORM-yellow?style=flat&logo=mikrorm&logoColor=white)
+---
 
-### Software
+## 📝 Technical Writing
+I regularly write deep-dives into computer science theory, systems programming, and real-world applications at **[blog.yarne.me](https://blog.yarne.me/)**. 
 
-![](https://img.shields.io/badge/Git-Software-seagreen?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Docker-Software-seagreen?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Vite-Software-seagreen?style=flat&logo=vite&logoColor=white)
-![](https://img.shields.io/badge/Create%20React%20App-Software-seagreen?style=flat&logo=createreactapp&logoColor=white)
-![](https://img.shields.io/badge/Netlify-Software-seagreen?style=flat&logo=netlify&logoColor=white)
-
-### Systems
-
-![](https://img.shields.io/badge/Linux-OS-cornflowerblue?style=flat&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Windows-OS-cornflowerblue?style=flat&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/iOS-OS-cornflowerblue?style=flat&logo=ios&logoColor=white)
-
-### Tools
-
-![](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-mediumpurple?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/NeoVim-Editor-mediumpurple?style=flat&logo=neovim&logoColor=white)
-![](https://img.shields.io/badge/Figma-Design%20Tool-mediumpurple?style=flat&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/ChatGPT-AI-mediumpurple?style=flat&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/DallE-AI-mediumpurple?style=flat&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/InteliJ-IDE-mediumpurple?style=flat&logo=intelij&logoColor=white)
-
-## My Work
-
-### NPM Packages
-
-- [Readable Numbers](https://www.npmjs.com/package/readable-numbers)
-  An npm package to make big numbers (eg 10000000) readable (eg 10M).
-
-### Wesbites and web apps
-
-- [Topaz RPG](https://topazrpg.xyz)
-  A website for my RPG discord bot. Written in react with tailwindcss and typescript.
+* **[Why N Matters](https://blog.yarne.me/posts/timecomplexity/)**
+  *A breakdown of why a contiguous `Vec` can outperform a `HashMap` in real-world scenarios, inspired by a PR on my open-source project.*
+* **[Stop Fearing the Monad](https://blog.yarne.me/posts/monads/)**
+  *Demystifying Monads and complex functional programming concepts for everyday developers.*
+* **[Coverage Checkers](https://blog.yarne.me/posts/exhaustiveness/)**
+  *An introduction into Luc Maranget’s constructor-matrix algorithm, used in compilers to check for exhaustiveness.*
